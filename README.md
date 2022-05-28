@@ -3,3 +3,4 @@
 ####  Assunto Capoeira.
 ##### 1. Principais vantagens. 
 ##### 2. história do mestre.
+##### 3. Alterando para usar o comando pull.
